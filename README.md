@@ -1,4 +1,4 @@
-# Project Description: Rock Paper Scissors Image Classification
+# Rock Paper Scissors Image Classification
 
 This project aims to develop an image classification system that can differentiate between images of hands showing rock, paper, and scissors symbols. The main goal of this project is to train a machine learning model that can recognize and distinguish these images with high accuracy. This project involves building an image classification model using TensorFlow and Keras. The primary objective is to classify images into different categories using a convolutional neural network (CNN).
 
